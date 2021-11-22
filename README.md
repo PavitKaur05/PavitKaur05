@@ -43,7 +43,7 @@ check it out: https://pavitkaur05.github.io/
 #### 📫 How to reach me:  
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)  
- You can connct with me on:
+ You can connect with me on:
 
 <a href="https://twitter.com/PavitKaur4">
   <img align="left" alt="Pavit Kaur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

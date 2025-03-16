@@ -16,32 +16,21 @@ Always exploring better ways to design and optimize backend systems.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PavitKaur05)](https://git.io/streak-stats)
 
-### My Projects
+#### Projects
 
 *Google Summer of Code Project*
 
 * [Incremental Improvements to Debian’s CI platform](https://summerofcode.withgoogle.com/archive/2021/projects/6267095049830400)
 
-#### Projects from the Start of My Coding Journey
-
-*When I was learning Django-REST*
-
-* [Profiles-REST-API](https://github.com/PavitKaur05/profiles-rest-api)
-* [Django-REST-Try-Authentication](https://github.com/PavitKaur05/Django-REST-Try-Authentication)
-* [Django-REST-Pincode-Field-Validator](https://github.com/PavitKaur05/Django-REST-Pincode-Field-Validator)
-
-*When I got interested in Web Scraping*
-* [WebScrapingProjects](https://github.com/PavitKaur05/WebScrapingProjects)
-
 *Hackathon Projects*
 
 * [Myntra-HackerRamp: Customer Delight ](https://github.com/PavitKaur05/Myntra-HackerRamp---Team-Natasha)
   - Android Application for Virtual-Try-On with Mix-match products matching 
-  - My Role: I worked on building backend for application using Flask integrated with ML models
+  - Worked on building backend for application using Flask integrated with ML models
   - Achievement: Pre-Finalist (Selected in Top 32 Teams anong 6000+ participated Teams)
  * [Silly Hacks 2020: Ruin Digital Life](https://github.com/PavitKaur05/ruin-digital-life)
-    - Silly prank application to destroy someone's digital life by targeting both one's computer and social media
-    - My Role: I worked on building backend for application using Django REST integrated with Auth0 for authentication and used my Web Scraping to fill up the
+    - Silly prank application
+    - Worked on building backend for application using Django REST integrated with Auth0 for authentication and used Web Scraping to fill up the
       database with demotivational quotes and posters which as part of the prank was going to be send daily to user's social media accounts.
     - Achievement: Won the Silly Hacks 2020 under the event "Hacking with n8n"
 
